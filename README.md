@@ -4,6 +4,9 @@ Style transfer Apple Core ML model
 
 Preparation 7 styles for app use, to perform image style change.
 
+[Source]
+![source](source/landscape.jpg)
+
 [Style 1]  
 ![Style 1](images/landscape_0.jpg)
 
